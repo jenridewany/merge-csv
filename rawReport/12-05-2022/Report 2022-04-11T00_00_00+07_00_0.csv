@@ -1,0 +1,6 @@
+No,Broadcast Date,Bot Name,Nama,Phone,Gender,Status Call,Duration,Label,Payment Method,Payment Date,Transkrip URL
+1,4/11/2022 11:30,,Lorem,8111111111,Female,-,0:00:00,Cant Connect,,,
+2,4/11/2022 16:00,,Ipsum,8111111111,Male,Failed Ring Timeout,0:00:58,Cant Connect,,,url
+3,4/11/2022 11:30,,Dolor,8111111111,Female,-,0:00:00,Cant Connect,,,
+4,4/11/2022 16:00,,Sit,8111111111,Male,Failed Ring Timeout,0:00:18,Cant Connect,,,url
+5,4/11/2022 16:00,,Amet,8111111111,Female,Answered,0:00:52,None,,,url
