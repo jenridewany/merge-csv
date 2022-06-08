@@ -10,7 +10,7 @@
     */
 
     //list date
-    $arrDate = array("13-04-2022", "14-04-2022", "15-04-2022", "18-04-2022", "21-04-2022", "22-04-2022", "25-04-2022", "26-04-2022", "27-04-2022", "09-05-2022");
+    $arrDate = array("12-05-2022");
     
     //looping data tanggal
     for($i=0; $i<count($arrDate); $i++){
@@ -31,7 +31,7 @@
         }
 
         //name can be customized
-        $name = "Reportcall BRIF $arrDate[$i].csv";
+        $name = "Report [project name] $arrDate[$i].csv";
         createCsv($name, $tmp);
     }
 
